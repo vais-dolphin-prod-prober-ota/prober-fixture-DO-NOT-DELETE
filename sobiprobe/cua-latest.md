@@ -1,0 +1,1 @@
+SOBIPROBE CUA fixture
